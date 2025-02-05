@@ -1,2 +1,2 @@
 # Conflictos en Git
-Cómo Resolver Conflictos en GitHub
+Cómo Resolver Conflictos en GitHub.
